@@ -91,6 +91,7 @@ If you make any modifications, please share them with me, Im curious on how you 
 ## Additional Notes
 - **Original Scripts:** Credit to the author of the original scripts that made this possible. The original project is linked below:  
   [https://github.com/laidlaw42/ableton-live-midi-remote-scripts/tree/YourControllerName](https://github.com/laidlaw42/ableton-live-midi-remote-scripts/tree/YourControllerName)
+- **My own input on the Play, Stop and Rec buttons**: I found that it was only possible to use them by changing them to CC and modifying the code in SMK25.py. DO NOT CHANGE THEIR MAPPINGS IN MIDI_Map
 - **Compatibility:** Tested with Ableton 11 using Python 3. This configuration may not work with earlier versions of Ableton (especially pre-11, which use Python 2).
 
 ---
