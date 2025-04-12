@@ -62,7 +62,7 @@ Press **PAD-B** on your keyboard to activate. These pads are mapped to Ableton's
 | Play       | Play         |
 | Stop       | Stop         |
 | Record     | Record       |
-
+The rest are left as is.
 ---
 
 ## Knob Mappings
@@ -84,7 +84,7 @@ Activate with the **KNOB-B** button. These knobs are left empty for custom instr
 ## Customization
 If you're feeling adventurous, you can modify the configuration using the `MIDI_Map` file and the Midisuite app.
 
-If you make any modifications, please share them with me!
+If you make any modifications, please share them with me, Im curious on how you could improve this.
 
 ---
 
